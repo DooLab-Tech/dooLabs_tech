@@ -1,4 +1,4 @@
-# Doolabs Tech
+# Doolab Tech
 
 O projeto Doolab Tech é uma solução tecnológica inovadora que emprega a telegestão, um sistema de gestão remota, para otimizar o gerenciamento e a operação da iluminação pública. A telegestão é uma parte integral deste projeto, pois permite o controle e a supervisão em tempo real do estado e desempenho do sistema de iluminação pública, promovendo a eficiência energética, a segurança e a economia.
 
